@@ -1,7 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 天気予報Line bot
 
 Things you may want to cover:
 
